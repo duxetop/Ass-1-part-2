@@ -4,7 +4,7 @@
 #include <stdlib.h> 
 
 
-void main(void)
+void main()
 {
     // Init variables
     int var1, var2, var3;
