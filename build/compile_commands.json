@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/haris/Desktop/vscode/ECE 220/Assignments/Ass 1 part 2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -g -std=gnu99 -o CMakeFiles\\Ass_1_2.dir\\main.c.obj -c \"C:\\Users\\haris\\Desktop\\vscode\\ECE 220\\Assignments\\Ass 1 part 2\\main.c\"",
+  "file": "C:\\Users\\haris\\Desktop\\vscode\\ECE 220\\Assignments\\Ass 1 part 2\\main.c"
+}
+]
